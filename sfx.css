@@ -6,8 +6,8 @@
 
 @font-face {
     font-family: 'zzz';
-    src: url('https://github.com/nick3go/Vegova-sfx/blob/ef4d8dc154594fd0f9fc3aca967993dbe10f920c/zzz.woff') format('woff'),
-         url('https://github.com/nick3go/Vegova-sfx/blob/487f7bce18b79f3647f6224fc48d383cec3aa3db/zzzz.woff2') format('woff2');
+    src: url('zzz.woff') format('woff'),
+         url('zzzz.woff2') format('woff2');
 }
 
 body {
